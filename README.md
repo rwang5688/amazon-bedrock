@@ -1,1 +1,1 @@
-# amazon-bedrock
+# amazon-bedrock-langchain workshop
